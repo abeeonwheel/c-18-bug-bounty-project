@@ -1,0 +1,2 @@
+   loadanimation not defination
+p5.playfile is missing
